@@ -1,0 +1,2 @@
+# PERFORMANCE-ANALYSIS-AND-CLASSIFICATION-OF-TRANSMISSION-LINE-FAULTS-
+Transmission lines are basically one of the most key parts in a power system's network, by means of which the power system moves electricity that was produced at its sources, straight over to the end users. But also, if a transmission line gets hit by a storm or there is an insulation failure, etc., it ends up being called a short circuit. 
